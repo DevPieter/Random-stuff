@@ -2,7 +2,7 @@
 
 ## Here I post all random things that I made.
 
-#### They are not harmful programs
+#### They are not harmful programs it's just for fun.
 
 | Name  | Download  | Language  | Version  | Decription  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -12,3 +12,8 @@
 | RandomLines  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/RandomLines.exe?raw=true )  | C++  | 1.0.0  | you will see random lines on your screen.  |
 | LOL xD  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/LOL%20xD.jar?raw=true)  | Java  | 1.0.0  | You can prank your friends with this! xD  |
 | xDGnome  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/xDgnome.jar?raw=true )  | Java  | 1.0.0  | Random Gnomes  | 
+
+
+
+
+[Scan](https://www.virustotal.com/gui/home/upload )
