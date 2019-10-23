@@ -1,6 +1,6 @@
 # Random-stuff
 
-## Here I post all random things that I made myself.
+## Here I post all random things that I made.
 
 | Name  | Download  | Language  | Version  | Decription  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
