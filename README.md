@@ -14,6 +14,8 @@
 | xDGnome  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/xDgnome.jar?raw=true )  | Java  | 1.0.0  | Random Gnomes  | 
 
 
+## If you download it, windows might say it's dangerous but that's **NOT**!
+### If you do not trust it, you can scan it here.
 
+https://www.virustotal.com/gui/home/upload
 
-[Scan](https://www.virustotal.com/gui/home/upload )
