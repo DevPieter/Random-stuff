@@ -6,9 +6,9 @@
 
 | Name  | Download  | Language  | Version  | Decription  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| InvertScreenColors  | [Download](http://test.nl "test")  | C++  | 1.0.0  | It Inverts your screen colors.  |
-| melt (Random)  | [Download](http://test.nl "test")  | C++  | 1.0.0  | It melts your screen.  |
-| wirus  | [Download](http://test.nl "test")  | C++  | 1.0.0  | you can scare your friends with this.  | 
-| RandomLines  | [Download](http://test.nl "test")  | C++  | 1.0.0  | you will see random lines on your screen.  |
+| InvertScreenColors  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/InvertScreenColors.exe?raw=true "test")  | C++  | 1.0.0  | It Inverts your screen colors.  |
+| melt (Random)  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/melt.exe?raw=true "test")  | C++  | 1.0.0  | It melts your screen.  |
+| wirus  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/wirus.exe?raw=true "test")  | C++  | 1.0.0  | you can scare your friends with this.  | 
+| RandomLines  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/RandomLines.exe?raw=true "test")  | C++  | 1.0.0  | you will see random lines on your screen.  |
 | LOL xD  | [Download](http://test.nl "test")  | Java  | 1.0.0  | You can prank your friends with this! xD  |
-| xDGnome  | [Download](http://test.nl "test")  | Java  | 1.0.0  | Random Gnomes  | 
+| xDGnome  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/xDgnome.jar?raw=true "test")  | Java  | 1.0.0  | Random Gnomes  | 
