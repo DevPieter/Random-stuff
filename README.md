@@ -3,7 +3,7 @@
 ## Here I post all random things that I made.
 
 #### They are not harmful programs it's just for fun.
-
+#### (Only tested on Windows)
 | Name  | Download  | Language  | Version  | Decription  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | InvertScreenColors  | [Download](https://github.com/SuperPieter/Random-stuff/blob/master/Random-Stuff/InvertScreenColors.exe?raw=true )  | C++  | 1.0.0  | It Inverts your screen colors.  |
